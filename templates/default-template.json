@@ -5,10 +5,10 @@
       "filename": "Blank",
       "iconCode": "\ue9fe",
       "categories": [
-        "Creative",
-        "Lines",
-        "Grids",
-        "Life/organize"
+        "01",
+        "04",
+        "02",
+        "03"
       ]
     },
     {
@@ -17,10 +17,10 @@
       "iconCode": "\ue9fd",
       "landscape": true,
       "categories": [
-        "Creative",
-        "Lines",
-        "Grids",
-        "Life/organize"
+        "01",
+        "04",
+        "02",
+        "03"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "iconCode": "\ue9aa",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "iconCode": "\ue9ab",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "iconCode": "\ue9ac",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -56,8 +56,8 @@
       "iconCode": "\ue9ad",
       "landscape": true,
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -66,8 +66,8 @@
       "iconCode": "\ue9b4",
       "landscape": true,
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -76,7 +76,7 @@
       "iconCode": "\ue9b6",
       "landscape": true,
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "iconCode": "\ue9bc",
       "landscape": true,
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -94,7 +94,7 @@
       "iconCode": "\ue9c9",
       "landscape": true,
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -103,43 +103,43 @@
       "iconCode": "\ue9b7",
       "landscape": true,
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
       "name": "Lined bottom",
-      "filename": "LS Lines bottom",
+      "filename": "LS 04 bottom",
       "iconCode": "\ue9ba",
       "landscape": true,
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
       "name": "Lined medium",
-      "filename": "LS Lines medium",
+      "filename": "LS 04 medium",
       "iconCode": "\ue9b8",
       "landscape": true,
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
       "name": "Lined small",
-      "filename": "LS Lines small",
+      "filename": "LS 04 small",
       "iconCode": "\ue9b9",
       "landscape": true,
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
       "name": "Lined top",
-      "filename": "LS Lines top",
+      "filename": "LS 04 top",
       "iconCode": "\ue9bb",
       "landscape": true,
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "iconCode": "\ue9c8",
       "landscape": true,
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -157,7 +157,7 @@
       "iconCode": "\ue9ca",
       "landscape": true,
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -166,7 +166,7 @@
       "iconCode": "\ue9cc",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -175,7 +175,7 @@
       "iconCode": "\ue9cb",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -183,7 +183,7 @@
       "filename": "P One storyboard",
       "iconCode": "\ue9d4",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -191,7 +191,7 @@
       "filename": "P Two storyboards",
       "iconCode": "\ue9d7",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -200,7 +200,7 @@
       "iconCode": "\ue9cd",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -209,7 +209,7 @@
       "iconCode": "\ue9b5",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -217,7 +217,7 @@
       "filename": "P Four storyboards",
       "iconCode": "\ue997",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -226,7 +226,7 @@
       "iconCode": "\ue9ce",
       "landscape": true,
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -235,16 +235,7 @@
       "iconCode": "\ue9cf",
       "landscape": true,
       "categories": [
-        "Life/organize"
-      ]
-    },
-    {
-      "name": "Music",
-      "filename": "Notes",
-      "iconCode": "\ue9d3",
-      "categories": [
-        "Lines",
-        "Creative"
+        "03"
       ]
     },
     {
@@ -252,7 +243,7 @@
       "filename": "P Checklist",
       "iconCode": "\ue98f",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -260,7 +251,7 @@
       "filename": "P Cornell",
       "iconCode": "\ue9ff",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -268,7 +259,7 @@
       "filename": "P Day",
       "iconCode": "\ue991",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -276,8 +267,8 @@
       "filename": "P Dots S bottom",
       "iconCode": "\ue993",
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -285,8 +276,8 @@
       "filename": "P Dots S top",
       "iconCode": "\ue996",
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -294,8 +285,8 @@
       "filename": "P Dots S",
       "iconCode": "\ue995",
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -303,8 +294,8 @@
       "filename": "P Dots large",
       "iconCode": "\ue994",
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -313,8 +304,8 @@
       "iconCode": "\ue9f9",
       "landscape": true,
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -323,8 +314,8 @@
       "iconCode": "\ue9f8",
       "landscape": "true",
       "categories": [
-        "Creative",
-        "Grids"
+        "01",
+        "02"
       ]
     },
     {
@@ -332,7 +323,7 @@
       "filename": "P Grid bottom",
       "iconCode": "\ue999",
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -340,7 +331,7 @@
       "filename": "P Grid large",
       "iconCode": "\ue99a",
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -348,7 +339,7 @@
       "filename": "P Grid medium",
       "iconCode": "\ue99d",
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -356,7 +347,7 @@
       "filename": "P Grid small",
       "iconCode": "\ue99e",
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -365,7 +356,7 @@
       "iconCode": "\ue9fc",
       "landscape": true,
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -374,7 +365,7 @@
       "iconCode": "\ue9fb",
       "landscape": true,
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -383,7 +374,7 @@
       "iconCode": "\ue9fa",
       "landscape": true,
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -391,7 +382,7 @@
       "filename": "P Grid margin large",
       "iconCode": "\ue99b",
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -399,7 +390,7 @@
       "filename": "P Grid margin med",
       "iconCode": "\ue99c",
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -407,7 +398,7 @@
       "filename": "P Grid top",
       "iconCode": "\ue99f",
       "categories": [
-        "Grids"
+        "02"
       ]
     },
     {
@@ -415,7 +406,7 @@
       "filename": "P Lined bottom",
       "iconCode": "\ue9a5",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -423,7 +414,7 @@
       "filename": "P Lined heading",
       "iconCode": "\ue9a0",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -431,31 +422,31 @@
       "filename": "P Lined top",
       "iconCode": "\ue9a9",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
       "name": "Lined large",
-      "filename": "P Lines large",
+      "filename": "P 04 large",
       "iconCode": "\ue9a6",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
       "name": "Lined medium",
-      "filename": "P Lines medium",
+      "filename": "P 04 medium",
       "iconCode": "\ue9a7",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
       "name": "Lined small",
-      "filename": "P Lines small",
+      "filename": "P 04 small",
       "iconCode": "\ue9a8",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -463,7 +454,7 @@
       "filename": "P Margin large",
       "iconCode": "\ue9d0",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -471,7 +462,7 @@
       "filename": "P Margin medium",
       "iconCode": "\ue9d1",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -479,7 +470,7 @@
       "filename": "P Margin small",
       "iconCode": "\ue9d2",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -487,7 +478,7 @@
       "filename": "P US College",
       "iconCode": "\ue9d8",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -495,7 +486,7 @@
       "filename": "P US Legal",
       "iconCode": "\ue9d9",
       "categories": [
-        "Lines"
+        "04"
       ]
     },
     {
@@ -503,7 +494,7 @@
       "filename": "P Week",
       "iconCode": "\ue9dc",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -511,7 +502,7 @@
       "filename": "P Week 2",
       "iconCode": "\ue9da",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -519,7 +510,7 @@
       "filename": "P Week US",
       "iconCode": "\ue9db",
       "categories": [
-        "Life/organize"
+        "03"
       ]
     },
     {
@@ -527,7 +518,7 @@
       "filename": "Isometric",
       "iconCode": "\uea00",
       "categories": [
-        "Creative"
+        "01"
       ]
     },
     {
@@ -535,7 +526,7 @@
       "filename": "Perspective1",
       "iconCode": "\ue9d5",
       "categories": [
-        "Creative"
+        "01"
       ]
     },
     {
@@ -543,8 +534,155 @@
       "filename": "Perspective2",
       "iconCode": "\ue9d6",
       "categories": [
-        "Creative"
+        "01"
+      ]
+    },
+    {
+      "name": "Calligraphy large",
+      "filename": "LS Calligraphy large",
+      "iconCode": "\ue990",
+      "landscape": true,
+      "categories": [
+        "01",
+        "04"
+      ]
+    },
+    {
+      "name": "Calligraphy medium",
+      "filename": "LS Calligraphy medium",
+      "iconCode": "\ue9a1",
+      "landscape": true,
+      "categories": [
+        "01",
+        "04"
+      ]
+    },
+    {
+      "name": "Piano sheet large",
+      "filename": "LS Piano sheet large",
+      "iconCode": "\ue970",
+      "landscape": true,
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Piano sheet medium",
+      "filename": "LS Piano sheet medium",
+      "iconCode": "\ue975",
+      "landscape": true,
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Piano sheet small",
+      "filename": "LS Piano sheet small",
+      "iconCode": "\ue976",
+      "landscape": true,
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Calligraphy large",
+      "filename": "P Calligraphy large",
+      "iconCode": "\ue98d",
+      "categories": [
+        "01",
+        "04"
+      ]
+    },
+    {
+      "name": "Calligraphy medium",
+      "filename": "P Calligraphy medium",
+      "iconCode": "\ue98e",
+      "categories": [
+        "01",
+        "04"
+      ]
+    },
+    {
+      "name": "Music",
+      "filename": "Notes",
+      "iconCode": "\ue9d3",
+      "categories": [
+        "04",
+        "01"
+      ]
+    },
+    {
+      "name": "Bass tablature",
+      "filename": "P Bass tab",
+      "iconCode": "\ue9c0",
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Guitar chords",
+      "filename": "P Guitar chords",
+      "iconCode": "\ue9b2",
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Guitar tablature",
+      "filename": "P Guitar tab",
+      "iconCode": "\ue9c5",
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Piano sheet large",
+      "filename": "P Piano sheet large",
+      "iconCode": "\ue977",
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Piano sheet medium",
+      "filename": "P Piano sheet medium",
+      "iconCode": "\ue978",
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Piano sheet small",
+      "filename": "P Piano sheet small",
+      "iconCode": "\ue979",
+      "categories": [
+        "01"
+      ]
+    },
+    {
+      "name": "Hexagon large",
+      "filename": "P Hexagon large",
+      "iconCode": "\ue97b",
+      "categories": [
+        "02"
+      ]
+    },
+    {
+      "name": "Hexagon medium",
+      "filename": "P Hexagon medium",
+      "iconCode": "\ue982",
+      "categories": [
+        "02"
+      ]
+    },
+    {
+      "name": "Hexagon small",
+      "filename": "P Hexagon small",
+      "iconCode": "\ue98c",
+      "categories": [
+        "02"
       ]
     }
+
   ]
 }
