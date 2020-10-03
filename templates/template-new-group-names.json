@@ -108,7 +108,7 @@
     },
     {
       "name": "Lined bottom",
-      "filename": "LS 04 bottom",
+      "filename": "LS Lined bottom",
       "iconCode": "\ue9ba",
       "landscape": true,
       "categories": [
@@ -117,7 +117,7 @@
     },
     {
       "name": "Lined medium",
-      "filename": "LS 04 medium",
+      "filename": "LS Lined medium",
       "iconCode": "\ue9b8",
       "landscape": true,
       "categories": [
@@ -126,7 +126,7 @@
     },
     {
       "name": "Lined small",
-      "filename": "LS 04 small",
+      "filename": "LS Lined small",
       "iconCode": "\ue9b9",
       "landscape": true,
       "categories": [
@@ -135,7 +135,7 @@
     },
     {
       "name": "Lined top",
-      "filename": "LS 04 top",
+      "filename": "LS Lined top",
       "iconCode": "\ue9bb",
       "landscape": true,
       "categories": [
@@ -427,7 +427,7 @@
     },
     {
       "name": "Lined large",
-      "filename": "P 04 large",
+      "filename": "P Lined large",
       "iconCode": "\ue9a6",
       "categories": [
         "04"
@@ -435,7 +435,7 @@
     },
     {
       "name": "Lined medium",
-      "filename": "P 04 medium",
+      "filename": "P Lined medium",
       "iconCode": "\ue9a7",
       "categories": [
         "04"
@@ -443,7 +443,7 @@
     },
     {
       "name": "Lined small",
-      "filename": "P 04 small",
+      "filename": "P Lined small",
       "iconCode": "\ue9a8",
       "categories": [
         "04"
