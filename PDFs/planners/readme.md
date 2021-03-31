@@ -1,0 +1,44 @@
+# 14 Month Planner
+- Grid Small template, leaves room for tool bar
+- blank cover page
+- future log (year view)
+	- page 1 holds 8 months
+	- page 2 hold 6 months
+	- other section, links to notes
+	- links to each month (tab)
+- Month View
+	- task section w/10 checkboxes
+	- notes section
+	- links to future log (F)
+	- links to each week (#)
+- Week View
+	- tasks section w/5 checkboxes
+	- goals section
+	- notes section
+	- links to future log (FL)
+	- links to current month (M#)
+	- links to notes (the pencil)
+- Notes
+	- 13 pages
+	- each page links to each month (M#)
+	- each page links to the future logs (F)
+
+# 6 Month Planner
+- Dots small template, leaves room for tool bar
+- Blank cover page
+- Future Log (year view)
+	- links to each month (tab)
+	- has a blank section at the bottom
+- Month View
+	- day section w/31 lines
+	- task section w/16 checkboxes
+	- links to each week (#)
+	- links to future log (F)
+- Week View
+	- task sections w/6 checkboxes
+	- habits section w/2 rows of 7 checkboxes
+	- links to the future log (F)
+	- links to the current month (M)
+	- misc section
+	- five weeks per month 
+	- plus 2 (only links to future log)
