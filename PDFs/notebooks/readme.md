@@ -35,3 +35,11 @@
 	- sections 1-7 are 20 pages
 	- section 8 is 24 pages
 - each page links to index
+
+# Notebook 6
+- Dots small template
+- cover sheet is index
+	- #s link to sections
+- 3 sections
+	- sections are 20 pages
+- each page links to index
