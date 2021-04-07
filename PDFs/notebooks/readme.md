@@ -21,6 +21,13 @@
 	- drafts; 100 pages, US Legal
 - links at the bottom of each page
 
+# Notebook 3.5
+- Dots small template
+	- outline/1: 5 pages
+	- notes/2: 10 pages
+	- drafts/3: 103 pages
+- #s link to sections
+
 # Notebook 4
 - blank cover sheet
 - no index
@@ -36,10 +43,22 @@
 	- section 8 is 24 pages
 - each page links to index
 
+# Notebook 5.5
+This is the same as Notebook 5; however, the links are all shaped like squares.
+
 # Notebook 6
 - Dots small template
 - cover sheet is index
 	- #s link to sections
 - 3 sections
 	- sections are 20 pages
+- each page links to index
+
+# Notebook 7
+- Dots small template
+- cover sheet is index
+	- #s link to sections
+- 5 sections
+	- sections 1-5 are 20 pages
+	- section 5 is 23 pages
 - each page links to index
