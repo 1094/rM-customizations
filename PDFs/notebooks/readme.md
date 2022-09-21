@@ -27,6 +27,7 @@
 	- notes/2: 10 pages
 	- drafts/3: 103 pages
 - #s link to sections
+- links to each section at the top of the page
 
 # Notebook 4
 - blank cover sheet
