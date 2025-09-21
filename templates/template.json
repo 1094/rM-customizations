@@ -9,9 +9,8 @@
  
     {
       "name": "Lined small",
-      "filename": "LS Lines small",
-      "iconCode": "\ue9b9",
-      "landscape": true,
+      "filename": "P Lines small",
+      "iconCode": "\ue9a8",
       "categories": ["Lines"]
     },
    
