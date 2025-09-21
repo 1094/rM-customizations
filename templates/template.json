@@ -1,0 +1,73 @@
+{
+  "templates": [
+    {
+      "name": "Blank",
+      "filename": "Blank",
+      "iconCode": "\ue9fe",
+      "categories": ["Creative", "Lines", "Grids", "Planners"]
+    },
+ 
+    {
+      "name": "Lined small",
+      "filename": "LS Lines small",
+      "iconCode": "\ue9b9",
+      "landscape": true,
+      "categories": ["Lines"]
+    },
+   
+    {
+      "name": "Margin small",
+      "filename": "LS Margin small",
+      "iconCode": "\ue9ca",
+      "landscape": true,
+      "categories": ["Lines"]
+    },
+    
+    {
+      "name": "Cornell",
+      "filename": "P Cornell",
+      "iconCode": "\ue9ff",
+      "categories": ["Lines"]
+    },
+   
+    {
+      "name": "Dots small",
+      "filename": "P Dots S",
+      "iconCode": "\ue995",
+      "categories": ["Creative", "Grids"]
+    },
+   
+    {
+      "name": "Grid small",
+      "filename": "P Grid small",
+      "iconCode": "\ue99e",
+      "categories": ["Grids"]
+    },
+   
+    {
+      "name": "Margin small",
+      "filename": "P Margin small",
+      "iconCode": "\ue9d2",
+      "categories": ["Lines"]
+    },
+  
+    {
+      "name": "Hexagon large",
+      "filename": "P Hexagon large",
+      "iconCode": "\ue97b",
+      "categories": ["Grids"]
+    },
+    {
+      "name": "Hexagon medium",
+      "filename": "P Hexagon medium",
+      "iconCode": "\ue982",
+      "categories": ["Grids"]
+    },
+    {
+      "name": "Hexagon small",
+      "filename": "P Hexagon small",
+      "iconCode": "\ue98c",
+      "categories": ["Grids"]
+    }
+  ]
+}
